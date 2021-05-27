@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Asteroid
   - Terrain
+  - checkpoint
+  - enemy
+  - endlvl
   layers:
   - Default
   - TransparentFX

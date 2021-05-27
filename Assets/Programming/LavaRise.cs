@@ -7,7 +7,7 @@ public class LavaRise : MonoBehaviour
     public GameObject relic;
     public GameObject lava;
     Vector3 lavapos;
-    bool rise = false;
+    public bool rise = false;
     public float speed;
     public GameObject player;
     CheckPoints checkies;
