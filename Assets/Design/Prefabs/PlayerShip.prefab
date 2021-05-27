@@ -18,6 +18,7 @@ GameObject:
   - component: {fileID: 2070967342736071685}
   - component: {fileID: 2757521452979052217}
   - component: {fileID: 2070967342736071705}
+  - component: {fileID: 6955618115598319199}
   m_Layer: 8
   m_Name: PlayerShip
   m_TagString: Untagged
@@ -328,3 +329,16 @@ MonoBehaviour:
   EffectScaleMultiplier: 2
   EffectStartColor: {r: 1, g: 0.7745887, b: 0.109803915, a: 1}
   ClipVolumeMultiplier: 0.5
+--- !u!114 &6955618115598319199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2070967342736071680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86e346dd0d21e6147884d51dfad6c5e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lava: {fileID: 0}
